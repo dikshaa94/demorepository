@@ -6,3 +6,5 @@ see if it works
 yo yo yo
 main
 from main
+bugfix branch
+rm -rf .git
